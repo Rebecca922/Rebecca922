@@ -4,12 +4,14 @@
 
 ✍🏼 As a previous manager and leader, I am mastered in operational, manageral and leadership fields. 
 
-🌱 As a computer science major graduate student at University of South Carolina, I am currently studying Python, Java, Tableau, R, HTML and MySQL as well. 
+🌱 As a computer science major graduate student at University of South Carolina, I am proficient in Python, Java, C++, Tableau, R, HTML and MySQL as well. 
 
 
 ✨Skillsets✨:
 
-<img alt="Static Badge" src="https://img.shields.io/badge/Java-8A2BE2?logoColor=purple"> <img alt="Static Badge" src="https://img.shields.io/badge/Python-orange?logoColor=orange">
+<img alt="Static Badge" src="https://img.shields.io/badge/Java-8A2BE2?logoColor=purple"> 
+<img alt="Static Badge" src="https://img.shields.io/badge/Python-orange?logoColor=orange">
+<img alt="Static Badge" src="https://img.shields.io/badge/C++garnet?logoColor=orange">
 <img alt="Static Badge" src="https://img.shields.io/badge/Tableau-blue?logoColor=blue">
 <img alt="Static Badge" src="https://img.shields.io/badge/MySQL-yellow?logoColor=yellow">
 <img alt="Static Badge" src="https://img.shields.io/badge/R-green?logoColor=green">
