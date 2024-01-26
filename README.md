@@ -11,7 +11,7 @@
 
 <img alt="Static Badge" src="https://img.shields.io/badge/Java-8A2BE2?logoColor=purple"> 
 <img alt="Static Badge" src="https://img.shields.io/badge/Python-orange?logoColor=orange">
-<img alt="Static Badge" src="https://img.shields.io/badge/C++garnet?logoColor=orange">
+<img alt="Static Badge" src="https://img.shields.io/badge/C++-red?logoColor=red">
 <img alt="Static Badge" src="https://img.shields.io/badge/Tableau-blue?logoColor=blue">
 <img alt="Static Badge" src="https://img.shields.io/badge/MySQL-yellow?logoColor=yellow">
 <img alt="Static Badge" src="https://img.shields.io/badge/R-green?logoColor=green">
